@@ -1,2 +1,2 @@
-# Kagle_01
-Predicion de productos en cadena cormercial mediante modelos entrenados con datos geograficos, ventas y clima.
+# Store Sales_ Kaggle
+Create a Machine Learning model to predict the sales of thousands products selled in stores located in Ecuador.
